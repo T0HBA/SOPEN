@@ -13,8 +13,8 @@
 // @require      https://gist.githubusercontent.com/T0HBA/a6a61991502576a5570d5231d193bcc1/raw/123c78892414a789cf354ce2dfa3e6de97b5fb81/isKeyPressed.min.js
 
 
-// @downloadURL  https://tanki.pages.dev/hack.js
-// @updateURL    https://tanki.pages.dev/hack.js
+// @downloadURL  https://github.com/T0HBA/SOPEN/raw/main/TOHBA.user.js
+// @updateURL    https://github.com/T0HBA/SOPEN/raw/main/TOHBA.user.js
 
 // @run-at       document-end
 // @grant        GM_xmlhttpRequest
