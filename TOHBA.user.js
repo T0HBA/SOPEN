@@ -2,7 +2,7 @@
 // @name         Hi_Hi_CycIone
 // @version      0.52
 // @description  Free open-source game cheat for Tanki Online.
-// @author       MalcomX
+// @author       TOHBA
 // @match        https://*.tankionline.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=tankionline.com
 
