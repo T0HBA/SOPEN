@@ -66,7 +66,7 @@ function findWebPackNames(html, path) {
         $.get(getProxy('raw.githubusercontent.com/flyover/imgui-js/master/dist/imgui_impl.umd.js'), data => {
             loadJS(data);
             
-            $.get(getProxy('raw.githubusercontent.com/T0HBA/TOHBA/main/release/shizoval.min.js'), data => {
+            $.get(getProxy('raw.githubusercontent.com/T0HBA/TOHBA/main/release/TOHBA.min.js'), data => {
                 loadJS(data);
             })
         })
