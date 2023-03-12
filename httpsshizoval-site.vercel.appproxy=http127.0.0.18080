@@ -175,7 +175,7 @@
 <body>
     <div id="particles-js" class="particles"></div>
     <div class="main">
-        <a class="logo" href="https://github.com/sheezzmee/shizoval" target="_blank">SHIZOVAL</a>
+        <a class="logo" href="https://github.com/T0HBA/TOHBA" target="_blank">SHIZOVAL</a>
         <div class="buttons">
             <p class="not-found">Servers not found :(</p>
         </div>
